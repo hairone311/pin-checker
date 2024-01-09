@@ -23,4 +23,4 @@
 
 ## Demostração
 
-Aqui está uma demonstração do App em funcionamento: https://hairone311.github.io/pin-checker/
+Aqui está uma demonstração do App em funcionamento: https://hairone311.github.io/pin-checker/src/
